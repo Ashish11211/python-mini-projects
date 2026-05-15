@@ -36,6 +36,7 @@ print("name", name)
 print("roll no:", roll)
 print("mark", mark)
 
+```
 ---
 
 ## 📫 Contact Me
